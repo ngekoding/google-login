@@ -10,7 +10,7 @@ Simplifying the Google Login in a PHP application.
 ## Installation
 
 ```sh
-composer require ngekoding\google-login
+composer require ngekoding/google-login
 ```
 
 ## Usage
