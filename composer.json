@@ -1,6 +1,6 @@
 {
   "name": "ngekoding/google-login",
-  "description": "Login with Google",
+  "description": "The easy way to integrate Google Login into PHP application.",
   "type": "library",
   "require": {
     "php": ">=5.6",
