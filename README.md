@@ -1,6 +1,6 @@
 # Google Login
 
-Simplifying the Google Login in a PHP application.
+The easy way to integrate Google Login into PHP application.
 
 ## Requirements
 
